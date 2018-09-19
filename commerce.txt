@@ -1,0 +1,20 @@
+Subjects:
+  Complusary:
+    Book Keeping and Accountancy
+    Business studies
+    Economics
+    English
+  
+  Optional
+    Mathematics
+    Physical Education
+    Computer Sciences
+    Information Technology
+    Hindi
+    Punjabi
+    Music
+    Painting
+    Psychology
+    Entrepreneurship
+    Environmental education
+    Geography
