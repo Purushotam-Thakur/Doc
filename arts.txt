@@ -1,0 +1,51 @@
+##Subjects
+  History
+  Political Science
+  Sociology
+  Geography
+  Psychology
+  Economics
+  Home Science
+  Fine Arts
+  Fashion Studies
+  Creative Writing
+  Philosophy
+  Civics
+  Public administration
+  Arts and craft
+  Handicraft
+  
+Two Languages (Core/Elective) out of:
+  Hindi	
+  Sanskrit
+  English	
+  Assamese	
+  Bengali	
+  Gujarati	
+  Kashmiri	
+  Kannada	
+  Marathi	
+  Malayalam	
+  Manipuri	
+  Oriya	
+  Punjabi	
+  Sindhi	
+  Tamil	
+  Telugu	
+  Urdu	
+  Arabic
+  Persian
+  Limboo
+  Lepcha
+  Bhutia
+  Mizo
+  Tangkhul
+  Bodo
+  Nepali
+  Tibetan
+  French
+  German
+  Portugese
+  Russian
+  Spanish
+  
