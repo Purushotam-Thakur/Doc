@@ -1,0 +1,22 @@
+Subject
+  PCB(Medical stream)
+    Physics
+    Chemistry
+    Biology
+    English
+  PCM(Non- Medical stream)
+    Physics
+    Chemistry
+    Mathematics
+    English
+    
+Optional Subjects
+  Physical Education
+  Psychology
+  Home Science
+  Economics
+  Biotechnology
+  Fine Arts
+  Biotechnology
+  Computer Science
+  Biology/Mathematics(Math with PCB and Biology with PCM)
