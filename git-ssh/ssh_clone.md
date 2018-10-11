@@ -21,13 +21,22 @@ These are instructions for setting up git to authenticate with GitHub when you h
     git config --global credential.helper osxkeychain
     ```
     
-    c. Linux, you can:
+    c. Linux you can use:
 
-    credential.helper cache to cache for 15 minutes.
-    credential.helper store to store the credentials unencrypted on disk
-    Enter the access token every time
+    to cache for 15 minutes: 
     ```
-    credential.helper cache --timeout=999999
+    credential.helper cache
+    ```
+    
+    to store the credentials unencrypted on disk
+    Enter the access token every time: 
+    ```
+    credential.helper store 
+    ```
+    For long time:
+    ``` 
+    credential.helper cache --timeout=999999 
+    ```
 
 4. [Set up a personal access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use) for accessing GitHub repositories - I recommend giving it `gist`, `repo`, and `user` scope. *Make sure you copy the token now as you won't be able to later*
 
